@@ -1,5 +1,5 @@
 streamlit
 tensorflow
-Pillow
-opencv-python
 numpy
+Pillow
+requests
